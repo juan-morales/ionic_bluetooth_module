@@ -12,3 +12,7 @@ In this repo you can find:
 
 
 Good luck with your app!
+
+### Video showing one application I made, using the bluetooth interface module to print in a ZK printter.
+
+https://www.youtube.com/watch?v=6lV_9fX57D8
